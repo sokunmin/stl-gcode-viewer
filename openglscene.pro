@@ -55,3 +55,7 @@ macx {
     #glm
     INCLUDEPATH +="/Users/rob/Qt5.3.1/glm/include"
 }
+
+linux {
+    LIBS += -lglut -lglut -lGLU -lGL
+}
