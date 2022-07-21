@@ -1,9 +1,0 @@
-1. Multiple object
-2. Edges of objects
-3. Select object
-4. Slicing
-5. Refer to matrix codes of QRepRap, sample codes
-6. Animation - Skeleton
-7. Collision
-8. move camera matrix on middle button pressed
-9. Rotation camera with matrix - refer to songho's codes
